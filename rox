@@ -1,0 +1,11 @@
+proxychains firefox gmail.com 
+wait
+proxychains firefox keep.google.com
+wait 
+proxychains firefox facebook.com
+wait
+proxychains github.com/asensocuano/hamburger/blob/main/hamburger.sh
+wait 
+proxychains gi
+
+sudo proxychains  apt-get install clamtk -y
