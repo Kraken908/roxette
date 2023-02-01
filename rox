@@ -1,3 +1,7 @@
+# To do that we open the config file of proxychains in a text editor with this
+#command:
+#leafpad /etc/proxychains.conf
+
 proxychains firefox gmail.com 
 wait
 proxychains firefox keep.google.com
